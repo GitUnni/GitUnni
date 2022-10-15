@@ -5,7 +5,8 @@
 - 🥅 2023 Goals: To be better than what I was in 2022
 - ⚡ Fun fact: I am good at chess 😏😎
 
-![kiiwik-app-_03](https://user-images.githubusercontent.com/114794304/195996093-4da66801-70d4-4659-a4ab-cedd1f9c7367.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/114794304/195999528-bccb3244-95c8-442a-a307-d68ba05e6b05.gif)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitunni&label=Profile%20views&color=0e75b6&style=flat" alt="gitunni" /> </p>
