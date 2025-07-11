@@ -2,7 +2,7 @@
 ## I'm a Student!!
 
 - 🌱 I’m currently learning everything I can 🤣
-- 🥅 2023 Goals: To be better than what I was in 2022
+- 🥅 2025 Goals: To be better than what I was in 2024
 - ⚡ Fun fact: I am good at chess 😏😎
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/114794304/195999528-bccb3244-95c8-442a-a307-d68ba05e6b05.gif)
