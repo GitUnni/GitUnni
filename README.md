@@ -1,7 +1,7 @@
 # Hi, I'm Akash aka Unni 👋 
 ## I'm a Student!!
 
-- 🌱 I’m currently learning everything I can 🤣
+- 🌱 I’m currently learning everything I can 
 - 🥅 2025 Goals: To be better than what I was in 2024
 - ⚡ Fun fact: I am good at chess 😏😎
 
