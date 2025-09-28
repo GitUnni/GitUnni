@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akash aka Unni</h1>
 <h3 align="center">Aspiring data analyst from Kerala, India</h3>
-
+<img align="center" src="https://user-images.githubusercontent.com/114794304/195999528-bccb3244-95c8-442a-a307-d68ba05e6b05.gif" alt="hacker" height="100" width="100" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitunni&label=Profile%20views&color=0e75b6&style=flat" alt="gitunni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitunni" alt="gitunni" /></a> </p>
 
 - 🔭 Exploring opportunities in **data analytics while building skills.**
+
+- 🌱 I’m currently learning **DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
