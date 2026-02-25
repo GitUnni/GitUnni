@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **DSA**
 
+<img align="center" src="https://user-images.githubusercontent.com/114794304/195999528-bccb3244-95c8-442a-a307-d68ba05e6b05.gif" alt="hacker" height="100" width="100" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/-akash-a-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/-akash-a-s/" height="30" width="40" /></a>
