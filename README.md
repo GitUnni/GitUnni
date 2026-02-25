@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash aka Unni</h1>
 <h3 align="center">Machine Learning enthusiast from Kerala, India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitunni" alt="gitunni" /></a> </p>
-
 - 🔭 Exploring opportunities in **data analytics, machine learning while building skills.**
 
 - 🌱 I’m currently learning **DSA**
